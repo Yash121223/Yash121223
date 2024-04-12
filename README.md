@@ -2,8 +2,18 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 # 💫 About Me:
-I am deeply dedicated to crafting web applications that are both scalable and efficient, drawing upon my diverse range of skills to produce top-notch solutions. My expertise lies in creating sturdy frameworks, enhancing performance, and guaranteeing smooth user interactions. I prioritize keeping abreast of the latest technologies, consistently refining my abilities to foster innovation and elevate project outcomes. <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yash121223&title=Commits&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
+### :man_technologist: About Me :
+
+🎓I am a UnderGrad Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :telescope: I’m learning and working on DSA, WebDev. I am deeply dedicated to crafting web applications that are both scalable and efficient, drawing upon my diverse range of skills to produce top-notch solutions.
+
+- :seedling: Exploring New technologies,Languages,Frameworks,etc.
+
+- :zap: Putting Hardwork In Learning.
+- 🗳 Like to Create fun projects in free time
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-agarwal-2bb83423b/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashhhagarwalll29_)
@@ -15,10 +25,7 @@ I am deeply dedicated to crafting web applications that are both scalable and ef
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yash121223&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash121223&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=rahulrawat31r&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Yash121223&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
